@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-hunterio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Provide blocks to interact with hunterio api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,11 @@
       "hunterio-execute": "execute-node.js"
     }
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/benoit.lavorata/node-red-contrib-hunterio.git"
+  },
+  "author": "Benoit Lavorata",
   "license": "ISC",
   "dependencies": {
     "hunterio": "^1.0.0"
