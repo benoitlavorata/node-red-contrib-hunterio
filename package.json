@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-hunterio",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Provide blocks to interact with hunterio api",
   "main": "index.js",
   "scripts": {
